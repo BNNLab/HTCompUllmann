@@ -1,0 +1,13 @@
+-name AADMPY10_CuLpyr_1
+-core copper
+-oxstate I
+-coord 3
+-geometry tpl
+-lig AADMPY10, pyrrolidinone
+-ligocc 1, 1
+-spin 1
+-ff uff
+-ffoption ba
+-keepHs auto, False
+-ligalign true
+-skipANN true

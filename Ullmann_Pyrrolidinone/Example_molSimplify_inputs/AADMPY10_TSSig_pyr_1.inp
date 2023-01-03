@@ -1,0 +1,13 @@
+-name AADMPY10_TSSig_pyr_1
+-core tssig_pyr
+-oxstate 0
+-spin 1
+-replig true
+-lig AADMPY10
+-ligocc 1
+-ccatoms 4,15
+-ligloc true
+-ligalign true
+-keepHs auto
+-ffoption c
+-skipANN true
